@@ -1,0 +1,11 @@
+F:\demo\c#\Teacher\Teacher\bin\Debug\Teacher.exe.config
+F:\demo\c#\Teacher\Teacher\bin\Debug\Teacher.exe
+F:\demo\c#\Teacher\Teacher\bin\Debug\Teacher.pdb
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.csproj.AssemblyReference.cache
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.Login.resources
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.Main.resources
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.Properties.Resources.resources
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.csproj.GenerateResource.cache
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.exe
+F:\demo\c#\Teacher\Teacher\obj\Debug\Teacher.pdb
