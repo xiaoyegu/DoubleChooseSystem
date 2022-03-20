@@ -28,5 +28,12 @@ namespace Administrator
                 this.Visible = false;//隐藏登陆窗口
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form fs = new Pwdmod(this);
+            fs.Visible = true;
+            this.Visible = false;
+        }
     }
 }

@@ -20,3 +20,16 @@ F:\demo\c#\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateRe
 F:\demo\c#\Administrator\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
 F:\demo\c#\Administrator\Administrator\obj\Debug\Administrator.exe
 F:\demo\c#\Administrator\Administrator\obj\Debug\Administrator.pdb
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\bin\Debug\Administrator.exe.config
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\bin\Debug\Administrator.exe
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\bin\Debug\Administrator.pdb
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.csproj.AssemblyReference.cache
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.Pwdmod.resources
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.Login.resources
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.Main.resources
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.cache
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.exe
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.pdb
+F:\demo\c#\DoubleChooseSystem\DoubleChooseSystem\Administrator\Administrator\obj\Debug\Administrator.StuInfo.resources
