@@ -33,5 +33,15 @@ namespace Student
                 this.Visible = false;//隐藏登陆窗口
             }
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
